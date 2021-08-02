@@ -18,9 +18,7 @@ Assim, você pode entregar um projeto completo, com eficiência, sem ficar sobre
 
 É fundamental ter parceiros frequentes para essa terceirização. Dessa forma, você conta sempre com as mesmas pessoas, especialmente se forem de confiança. Como vantagem, você pode ter preços melhores e ganhar pelo número de demandas, já que sempre vai direcionar trabalhos para esses parceiros.
 
-2. Seu custo de vida
-
-É importante levar em conta suas despezas, como aluguel, energia, internet e tudo o que é necessário para viver de maneira adequada e confortável.
+2. Seu custo de vida mensal
 
 3. Demanda de projetos no mês (se você tem poucos, a tendência é aumentar o preço para arcar com seus custos e despesas)
 
