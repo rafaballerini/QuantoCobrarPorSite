@@ -8,13 +8,19 @@ Oie gente! Sejam bem vindos a mais um vídeo aqui do canal, eu sou a Rafaella Ba
 
 ### Primeiro de tudo - critérios
 
-1. Seu custo de vida
+1. O que seria o "site"
+
+É interessante entender se você desevolverá apenas o front-end da aplicação, ou o back-end com o banco de dados, ou se de fato a pessoa que te contratar quer que você faça desde o design até a hospedagem dele.
+
+Você pode cobrar diretamente ao cliente o valor total de um site, mas faça isso já pensando em quais etapas do trabalho será preciso terceirizar.
+
+Assim, você pode entregar um projeto completo, com eficiência, sem ficar sobrecarregado ou se envolver em funções que não domina completamente — o que pode afetar a qualidade do seu trabalho final.
+
+É fundamental ter parceiros frequentes para essa terceirização. Dessa forma, você conta sempre com as mesmas pessoas, especialmente se forem de confiança. Como vantagem, você pode ter preços melhores e ganhar pelo número de demandas, já que sempre vai direcionar trabalhos para esses parceiros.
+
+2. Seu custo de vida
 
 É importante levar em conta suas despezas, como aluguel, energia, internet e tudo o que é necessário para viver de maneira adequada e confortável.
-
-2. O tipo de site solicitado
-
-Landing pages, hotsites, sites institucionais, portais e e-commerces
 
 3. Demanda de projetos no mês (se você tem poucos, a tendência é aumentar o preço para arcar com seus custos e despesas)
 
@@ -24,13 +30,7 @@ Ao definir quanto cobrar por um site, você fará o mesmo. Certamente, para dese
 
 Sendo assim, se você tem qualificações amplas, expertise de mercado e um portfólio sólido, com projetos bem executados e de sucesso, seus ganhos podem ser planejados com valores maiores.
 
-5. Quais partes do site você irá desenvolver
-
-Você pode cobrar diretamente ao cliente o valor total de um site, mas faça isso já pensando em quais etapas do trabalho será preciso terceirizar.
-
-Assim, você pode entregar um projeto completo, com eficiência, sem ficar sobrecarregado ou se envolver em funções que não domina completamente — o que pode afetar a qualidade do seu trabalho final.
-
-É fundamental ter parceiros frequentes para essa terceirização. Dessa forma, você conta sempre com as mesmas pessoas, especialmente se forem de confiança. Como vantagem, você pode ter preços melhores e ganhar pelo número de demandas, já que sempre vai direcionar trabalhos para esses parceiros.
+Muitos ainda tem uma marca própria, algo que a pessoa faz no desenvolvimento de algum site que deixa ele com a marca da pessoa. Caso você faça isso e tenha certo reconhecimento, é possível cobrar mais ainda.
 
 6. Pensar no mínimo e no máximo
 
@@ -40,17 +40,32 @@ Veja a média das agências da sua cidade, isso ajuda muito a definir a sua base
 
 7. Valor médio da hora de trabalho na região
 
+8. Apenas desenvolver ou também dar suporte
+
+É importante pensar não apenas no produto que será desenvolvido, mas também o que poderá vir junto com ele, como novas páginas, resolução de problemas, atualização de algumas regras de negócio.
+
+9. Lucro
+
+10. Imposto (em cima do que já foi calculado)
+
+**Preço = Custo da hora/(1- %impostos - %lucro)**
+
 ### Cálculo
 
 1. Seu custo de vida
 
-É importante levar em conta suas despezas, como aluguel, energia, internet e tudo o que é necessário para viver de maneira adequada e confortável.
+É importante levar em conta suas despezas, como:
+aluguel, energia, internet, plano de saúde, água, transporte e alimentação e tudo o que é necessário para viver de maneira adequada e confortável.
+Além disso, é importante pensar nos gastos das suas férias, impostos, décimo terceiro (festas de fim de ano).
+Equipamentos: computador
 
 2. Tempo
 
-Na hora de pegar o projeto de um site, considere o total de dias necessários para que ele fique pronto. Assim você também vai saber quantas horas por dia vai precisar para se dedicar a ele, fazendo então a cobrança adequada.
+Na hora de pegar o projeto de um site, considere o total de dias necessários para que ele fique pronto. Assim você também vai saber quantas horas por dia vai precisar para se dedicar a ele, fazendo então a cobrança adequada. (Nessa parte entra a experiência, caso você já tenha feito outros projetos semelhantes, fica um pouco mais simples de estimar qual tempo você leva, senão fica ainda um pouco nebuloso, e, infelizmente, não tem ninguém melhor que pode dizer quanto tempo você leva pra um trabalho desse além de você mesmo)
 
-Você pode se basear na CLT, que define 8 horas diárias de trabalho, mas também pode esticar um pouco mais, trabalhando de 10 a 12 horas, o que diminui a quantidade de dias trabalhados. O valor da sua hora/trabalho também é um fator a ser considerado para prever maiores ganhos, assim como o seu nível de produtividade.
+Se pensarmos que o normal hoje é trabalhar 8 horas por dia, 22 dias por mês, então são 176 horas mensais.
+
+Não esqueça de colocar uma margem de erro, para tarefas fora do desenvolvimento, como entrar em contato com o cliente, discutir possíveis melhorias e o próprio retrabalho para consertar alguma coisa.
 
 ### Passos para criar um site
 
@@ -65,4 +80,10 @@ Nesse exemplo, o domínio sai por R$39,99 por ano:
 
 2. Hospedagem
 
+Como mencionei, a própria Hostinger é uma plataforma de hospedagem, então você pode contratar o serviço deles para isso.
+
+É importante também levar isso em conta na hora de cobrar pelo site.
+
 3. Criação do site em si
+
+Para isso você pode desenvolver ele do zero, com seus conhecimentos em programação, ou utilizar um [sistema de gerenciamento de conteúdo](https://www.hostinger.com.br/tutoriais/o-que-e-cms), que são plataformas que permitem que você crie sites com ou sem conhecimento de programação, como o Wordpress. Nesse caso é interessante também já calculcar os custos de comprar temas personalizados.
