@@ -70,7 +70,7 @@ Não esqueça de colocar uma margem de erro, para tarefas fora do desenvolviment
 1. Registro de domínio
 **É uma máscara do seu IP.** Como assim? Você não vai ter que digitar ip:porta, apenas o domínio do site, como `google.com`.
 
-Para você ter uma noção do quanto custa um domínio, vamos abrir o [site da Hostinger](https://www.hostinger.com.br/), que é atualmente a plataforma de hospedagem de sites mais e fazer um teste.
+Para você ter uma noção do quanto custa um domínio, vamos abrir o [site da Hostinger](https://www.hostinger.com.br/rafa), que é atualmente a plataforma de hospedagem de sites mais e fazer um teste.
 
 Nesse exemplo, o domínio sai por R$39,99 por ano:
 
