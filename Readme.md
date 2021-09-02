@@ -1,6 +1,6 @@
 # Quanto cobrar por um site?
 
-[Nesse vídeo]() falarei sobre o os principais critérios que devem ser levados em consideração na hora de cobrar por um site e como fazer esse cálculo.
+[Nesse vídeo](https://www.youtube.com/watch?v=5LVqVcl9ICY) falarei sobre o os principais critérios que devem ser levados em consideração na hora de cobrar por um site e como fazer esse cálculo.
 
 ## Abertura do vídeo
 
