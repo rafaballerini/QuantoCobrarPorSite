@@ -52,7 +52,7 @@ Veja a média das agências da sua cidade, isso ajuda muito a definir a sua base
 
 1. Seu custo de vida
 
-É importante levar em conta suas despezas, como:
+É importante levar em conta suas despesas, como:
 aluguel, energia, internet, plano de saúde, água, transporte e alimentação e tudo o que é necessário para viver de maneira adequada e confortável.
 Além disso, é importante pensar nos gastos das suas férias, impostos, décimo terceiro (festas de fim de ano).
 Equipamentos: computador
